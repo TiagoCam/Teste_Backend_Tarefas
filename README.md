@@ -97,6 +97,9 @@ cd <caminho da pasta>
 ```
 mvn clean install
 ```
+```
+mvn install
+```
 - Observações:
     - mvn ➡️ Você está chamando o executável, o que significa que você precisa do Maven instalado em sua máquina.
 
